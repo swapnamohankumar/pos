@@ -1,2 +1,5 @@
 generic\BaseTest.class
 generic\Utility.class
+script\ValidLogin.class
+page\HomePage.class
+page\LoginPage.class
